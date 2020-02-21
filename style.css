@@ -37,7 +37,7 @@ p{
 }
 section{
     height: 540px;
-    margin-bottom: 50px;
+    padding-bottom: 50px;
 
 }
 .link-button{
@@ -85,6 +85,7 @@ section{
 }
 
 footer p{
+    margin-top: 200px;
     text-align: center;
     text-size-adjust: 12px;
 }
